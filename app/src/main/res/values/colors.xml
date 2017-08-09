@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="united_nation_blue">#5882e7</color>
+    <color name="bistre">#332C35</color>
+    <color name="manatee">#9B9A9B</color>
+</resources>
